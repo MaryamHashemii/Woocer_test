@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-xxhdpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-xxhdpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_ic_shopping.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/ic_shopping.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_ic_product.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/ic_product.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_shape_gradient_top_shadow.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/shape_gradient_top_shadow.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/font_highpro.otf.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/font/highpro.otf"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/navigation_basket_nav_graph.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/navigation/basket_nav_graph.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_fragment_product.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_background_btn_purple.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/background_btn_purple.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_background_edit_text.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/background_edit_text.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-xhdpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-xhdpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/menu_main_botttom_nav_menu.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/menu/main_botttom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-mdpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-mdpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-xxxhdpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-xxxhdpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_fragment_basket.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/fragment_basket.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/navigation_product_nav_graph.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/navigation/product_nav_graph.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_item_product.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/item_product.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_fragment_splash.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-ldpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-ldpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable_background_btn.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/drawable/background_btn.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/navigation_auth_nav_graph.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/navigation/auth_nav_graph.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_activity_main.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-anydpi-v24_ic_woocommerce.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-anydpi-v24/ic_woocommerce.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_fragment_login.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/layout_activity_login.xml.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/drawable-hdpi_ic_woocommerce.png.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/build/generated/res/pngs/prod/debug/drawable-hdpi/ic_woocommerce.png"
+    },
+    {
+        "merged": "/home/mary/AndroidStudioProjects/woocer_test/app/build/intermediates/merged_res/prodDebug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mary/AndroidStudioProjects/woocer_test/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

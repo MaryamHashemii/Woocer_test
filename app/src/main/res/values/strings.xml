@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">woocer_test</string>
+    <string name="label_product">product</string>
+    <string name="label_basket">basket</string>
+    <string name="label_name">name</string>
+    <string name="label_website">website</string>
+    <string name="label_email">email</string>
+    <string name="label_consumer_key">Consumer Key</string>
+    <string name="label_consumer_secret">Consumer Secret</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "auth_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "product_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "basket_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

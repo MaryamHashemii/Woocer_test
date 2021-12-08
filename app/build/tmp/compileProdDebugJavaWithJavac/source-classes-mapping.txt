@@ -1,0 +1,233 @@
+com/woocer/test/DataBindingTriggerClass.java
+ com.woocer.test.DataBindingTriggerClass
+com/woocer/test/presentation/product/Hilt_ProductFragment.java
+ com.woocer.test.presentation.product.Hilt_ProductFragment
+com/woocer/test/App_GeneratedInjector.java
+ com.woocer.test.App_GeneratedInjector
+dagger/hilt/internal/processedrootsentinel/codegen/_com_woocer_test_App.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_woocer_test_App
+com/woocer/test/presentation/product/ProductAdapter_Factory.java
+ com.woocer.test.presentation.product.ProductAdapter_Factory
+com/woocer/test/databinding/FragmentSplashBindingImpl.java
+ com.woocer.test.databinding.FragmentSplashBindingImpl
+com/woocer/test/presentation/product/ProductFragment_MembersInjector.java
+ com.woocer.test.presentation.product.ProductFragment_MembersInjector
+hilt_aggregated_deps/_com_woocer_test_presentation_basket_FragmentBasket_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_basket_FragmentBasket_GeneratedInjector
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/woocer/test/di/NetworkModule_ProvideRetrofitFactory.java
+ com.woocer.test.di.NetworkModule_ProvideRetrofitFactory
+hilt_aggregated_deps/_com_woocer_test_presentation_user_SplashFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_user_SplashFragment_GeneratedInjector
+hilt_aggregated_deps/_com_woocer_test_di_RepositoryModule.java
+ hilt_aggregated_deps._com_woocer_test_di_RepositoryModule
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/woocer/test/presentation/basket/Hilt_FragmentBasket.java
+ com.woocer.test.presentation.basket.Hilt_FragmentBasket
+com/woocer/test/presentation/product/ProductFragment_GeneratedInjector.java
+ com.woocer.test.presentation.product.ProductFragment_GeneratedInjector
+com/woocer/test/databinding/FragmentLoginBindingImpl.java
+ com.woocer.test.databinding.FragmentLoginBindingImpl
+com/woocer/test/data/AppRepositoryImp_Factory.java
+ com.woocer.test.data.AppRepositoryImp_Factory
+hilt_aggregated_deps/_com_woocer_test_presentation_user_LoginActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_user_LoginActivity_GeneratedInjector
+com/woocer/test/databinding/ItemProductBindingImpl.java
+ com.woocer.test.databinding.ItemProductBindingImpl
+com/woocer/test/BR.java
+ com.woocer.test.BR
+com/woocer/test/data/local/firebase/FireBaseRepoImpl_Factory.java
+ com.woocer.test.data.local.firebase.FireBaseRepoImpl_Factory
+com/woocer/test/presentation/user/LoginViewModel_HiltModules.java
+ com.woocer.test.presentation.user.LoginViewModel_HiltModules
+ com.woocer.test.presentation.user.LoginViewModel_HiltModules$BindsModule
+ com.woocer.test.presentation.user.LoginViewModel_HiltModules$KeyModule
+com/woocer/test/databinding/ActivityLoginBinding.java
+ com.woocer.test.databinding.ActivityLoginBinding
+com/woocer/test/presentation/user/SplashFragment_GeneratedInjector.java
+ com.woocer.test.presentation.user.SplashFragment_GeneratedInjector
+com/woocer/test/di/DatabaseModule_ProvideAppDatabaseFactory.java
+ com.woocer.test.di.DatabaseModule_ProvideAppDatabaseFactory
+com/woocer/test/BuildConfig.java
+ com.woocer.test.BuildConfig
+com/woocer/test/presentation/user/Hilt_LoginActivity.java
+ com.woocer.test.presentation.user.Hilt_LoginActivity
+ com.woocer.test.presentation.user.Hilt_LoginActivity$1
+hilt_aggregated_deps/_com_woocer_test_di_NetworkModule.java
+ hilt_aggregated_deps._com_woocer_test_di_NetworkModule
+hilt_aggregated_deps/_com_woocer_test_presentation_product_ProductViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_woocer_test_presentation_product_ProductViewModel_HiltModules_KeyModule
+com/woocer/test/presentation/product/ProductViewModel_HiltModules.java
+ com.woocer.test.presentation.product.ProductViewModel_HiltModules
+ com.woocer.test.presentation.product.ProductViewModel_HiltModules$BindsModule
+ com.woocer.test.presentation.product.ProductViewModel_HiltModules$KeyModule
+hilt_aggregated_deps/_com_woocer_test_presentation_user_LoginViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_woocer_test_presentation_user_LoginViewModel_HiltModules_BindsModule
+com/woocer/test/presentation/user/LoginActivity_GeneratedInjector.java
+ com.woocer.test.presentation.user.LoginActivity_GeneratedInjector
+com/woocer/test/databinding/FragmentLoginBinding.java
+ com.woocer.test.databinding.FragmentLoginBinding
+com/woocer/test/databinding/ActivityMainBindingImpl.java
+ com.woocer.test.databinding.ActivityMainBindingImpl
+com/woocer/test/presentation/user/Hilt_SplashFragment.java
+ com.woocer.test.presentation.user.Hilt_SplashFragment
+com/woocer/test/App_HiltComponents.java
+ com.woocer.test.App_HiltComponents
+ com.woocer.test.App_HiltComponents$ActivityC
+ com.woocer.test.App_HiltComponents$ActivityC$Builder
+ com.woocer.test.App_HiltComponents$ActivityCBuilderModule
+ com.woocer.test.App_HiltComponents$ActivityRetainedC
+ com.woocer.test.App_HiltComponents$ActivityRetainedC$Builder
+ com.woocer.test.App_HiltComponents$ActivityRetainedCBuilderModule
+ com.woocer.test.App_HiltComponents$FragmentC
+ com.woocer.test.App_HiltComponents$FragmentC$Builder
+ com.woocer.test.App_HiltComponents$FragmentCBuilderModule
+ com.woocer.test.App_HiltComponents$ServiceC
+ com.woocer.test.App_HiltComponents$ServiceC$Builder
+ com.woocer.test.App_HiltComponents$ServiceCBuilderModule
+ com.woocer.test.App_HiltComponents$SingletonC
+ com.woocer.test.App_HiltComponents$ViewC
+ com.woocer.test.App_HiltComponents$ViewC$Builder
+ com.woocer.test.App_HiltComponents$ViewCBuilderModule
+ com.woocer.test.App_HiltComponents$ViewModelC
+ com.woocer.test.App_HiltComponents$ViewModelC$Builder
+ com.woocer.test.App_HiltComponents$ViewModelCBuilderModule
+ com.woocer.test.App_HiltComponents$ViewWithFragmentC
+ com.woocer.test.App_HiltComponents$ViewWithFragmentC$Builder
+ com.woocer.test.App_HiltComponents$ViewWithFragmentCBuilderModule
+com/woocer/test/data/remote/AuthInterceptor_Factory.java
+ com.woocer.test.data.remote.AuthInterceptor_Factory
+hilt_aggregated_deps/_com_woocer_test_di_DatabaseModule.java
+ hilt_aggregated_deps._com_woocer_test_di_DatabaseModule
+com/woocer/test/common/imageloading/FrescoImageLoadingService_Factory.java
+ com.woocer.test.common.imageloading.FrescoImageLoadingService_Factory
+ com.woocer.test.common.imageloading.FrescoImageLoadingService_Factory$InstanceHolder
+com/woocer/test/data/sharedPref/UserSharedPref_Factory.java
+ com.woocer.test.data.sharedPref.UserSharedPref_Factory
+com/woocer/test/databinding/FragmentProductBindingImpl.java
+ com.woocer.test.databinding.FragmentProductBindingImpl
+com/woocer/test/databinding/FragmentBasketBinding.java
+ com.woocer.test.databinding.FragmentBasketBinding
+com/woocer/test/di/coroutine/CoroutinesModule_ProvidesMainImmediateDispatcherFactory.java
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory$InstanceHolder
+com/woocer/test/di/DatabaseModule_ProvideAppDAOFactory.java
+ com.woocer.test.di.DatabaseModule_ProvideAppDAOFactory
+hilt_aggregated_deps/_com_woocer_test_di_coroutine_CoroutinesModule.java
+ hilt_aggregated_deps._com_woocer_test_di_coroutine_CoroutinesModule
+hilt_aggregated_deps/_com_woocer_test_App_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_App_GeneratedInjector
+com/woocer/test/databinding/ActivityLoginBindingImpl.java
+ com.woocer.test.databinding.ActivityLoginBindingImpl
+com/woocer/test/di/coroutine/CoroutinesModule_ProvidesMainDispatcherFactory.java
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory$InstanceHolder
+com/woocer/test/domain/usecase/ProductUseCase_Factory.java
+ com.woocer.test.domain.usecase.ProductUseCase_Factory
+com/woocer/test/presentation/main/Hilt_MainActivity.java
+ com.woocer.test.presentation.main.Hilt_MainActivity
+ com.woocer.test.presentation.main.Hilt_MainActivity$1
+com/woocer/test/presentation/product/ProductViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.woocer.test.presentation.product.ProductViewModel_HiltModules_KeyModule_ProvideFactory
+ com.woocer.test.presentation.product.ProductViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+hilt_aggregated_deps/_com_woocer_test_presentation_product_ProductFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_product_ProductFragment_GeneratedInjector
+com/woocer/test/databinding/ActivityMainBinding.java
+ com.woocer.test.databinding.ActivityMainBinding
+com/woocer/test/presentation/user/Hilt_LoginFragment.java
+ com.woocer.test.presentation.user.Hilt_LoginFragment
+com/woocer/test/di/NetworkModule_ProvideApiServiceFactory.java
+ com.woocer.test.di.NetworkModule_ProvideApiServiceFactory
+hilt_aggregated_deps/_com_woocer_test_presentation_product_ProductViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_woocer_test_presentation_product_ProductViewModel_HiltModules_BindsModule
+com/woocer/test/DaggerApp_HiltComponents_SingletonC.java
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$1
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ActivityCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ActivityCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$Builder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$FragmentCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$FragmentCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ServiceCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$SwitchingProvider
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewModelCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.woocer.test.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCImpl
+com/woocer/test/data/local/dao/AppDb_Impl.java
+ com.woocer.test.data.local.dao.AppDb_Impl
+ com.woocer.test.data.local.dao.AppDb_Impl$1
+dagger/hilt/internal/aggregatedroot/codegen/_com_woocer_test_App.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_woocer_test_App
+hilt_aggregated_deps/_com_woocer_test_presentation_user_LoginViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_woocer_test_presentation_user_LoginViewModel_HiltModules_KeyModule
+com/woocer/test/di/NetworkModule_ProvideHttpClientFactory.java
+ com.woocer.test.di.NetworkModule_ProvideHttpClientFactory
+com/woocer/test/Hilt_App.java
+ com.woocer.test.Hilt_App
+ com.woocer.test.Hilt_App$1
+com/woocer/test/presentation/basket/FragmentBasket_GeneratedInjector.java
+ com.woocer.test.presentation.basket.FragmentBasket_GeneratedInjector
+com/woocer/test/presentation/user/LoginFragment_GeneratedInjector.java
+ com.woocer.test.presentation.user.LoginFragment_GeneratedInjector
+com/woocer/test/App_ComponentTreeDeps.java
+ com.woocer.test.App_ComponentTreeDeps
+com/woocer/test/presentation/product/ProductViewModel_Factory.java
+ com.woocer.test.presentation.product.ProductViewModel_Factory
+com/woocer/test/di/RepositoryModule_ProvideFireBaseRepoImplFactory.java
+ com.woocer.test.di.RepositoryModule_ProvideFireBaseRepoImplFactory
+ com.woocer.test.di.RepositoryModule_ProvideFireBaseRepoImplFactory$InstanceHolder
+hilt_aggregated_deps/_com_woocer_test_presentation_user_LoginFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_user_LoginFragment_GeneratedInjector
+com/woocer/test/DataBinderMapperImpl.java
+ com.woocer.test.DataBinderMapperImpl
+ com.woocer.test.DataBinderMapperImpl$InnerBrLookup
+ com.woocer.test.DataBinderMapperImpl$InnerLayoutIdLookup
+hilt_aggregated_deps/_com_woocer_test_presentation_main_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_woocer_test_presentation_main_MainActivity_GeneratedInjector
+com/woocer/test/databinding/FragmentSplashBinding.java
+ com.woocer.test.databinding.FragmentSplashBinding
+com/woocer/test/di/coroutine/CoroutinesModule_ProvidesDefaultDispatcherFactory.java
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory$InstanceHolder
+com/woocer/test/di/NetworkModule_ProvideLoggingInterceptorFactory.java
+ com.woocer.test.di.NetworkModule_ProvideLoggingInterceptorFactory
+ com.woocer.test.di.NetworkModule_ProvideLoggingInterceptorFactory$InstanceHolder
+com/woocer/test/di/RepositoryModule_ProvideAppRepositoryFactory.java
+ com.woocer.test.di.RepositoryModule_ProvideAppRepositoryFactory
+hilt_aggregated_deps/_com_woocer_test_di_ImageLoadingInjector.java
+ hilt_aggregated_deps._com_woocer_test_di_ImageLoadingInjector
+com/woocer/test/databinding/FragmentBasketBindingImpl.java
+ com.woocer.test.databinding.FragmentBasketBindingImpl
+com/woocer/test/di/coroutine/CoroutinesModule_ProvidesIoDispatcherFactory.java
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory
+ com.woocer.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory$InstanceHolder
+com/woocer/test/presentation/user/LoginViewModel_Factory.java
+ com.woocer.test.presentation.user.LoginViewModel_Factory
+com/woocer/test/databinding/ItemProductBinding.java
+ com.woocer.test.databinding.ItemProductBinding
+com/woocer/test/data/local/dao/AppDao_Impl.java
+ com.woocer.test.data.local.dao.AppDao_Impl
+ com.woocer.test.data.local.dao.AppDao_Impl$1
+ com.woocer.test.data.local.dao.AppDao_Impl$2
+ com.woocer.test.data.local.dao.AppDao_Impl$3
+com/woocer/test/presentation/main/MainActivity_GeneratedInjector.java
+ com.woocer.test.presentation.main.MainActivity_GeneratedInjector
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/woocer/test/util/NetworkConnectivity_Factory.java
+ com.woocer.test.util.NetworkConnectivity_Factory
+com/woocer/test/presentation/user/LoginViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.woocer.test.presentation.user.LoginViewModel_HiltModules_KeyModule_ProvideFactory
+ com.woocer.test.presentation.user.LoginViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/woocer/test/databinding/FragmentProductBinding.java
+ com.woocer.test.databinding.FragmentProductBinding

@@ -1,0 +1,143 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.woocer.test"
+4    android:versionCode="1"
+5    android:versionName="1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:6:5-79
+12-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:8:5-33:19
+15        android:name="com.woocer.test.App"
+15-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:9:9-43
+16        android:allowBackup="true"
+16-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /home/mary/.gradle/caches/transforms-3/a01574e500921665e796ce72446fab0f/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Woocer" >
+24-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:15:9-44
+25        <activity
+25-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:17:9-20:52
+26            android:name="com.woocer.test.presentation.main.MainActivity"
+26-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:18:13-59
+27            android:exported="true"
+27-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:19:13-36
+28            android:screenOrientation="portrait" />
+28-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:20:13-49
+29        <activity
+29-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:22:9-30:20
+30            android:name="com.woocer.test.presentation.user.LoginActivity"
+30-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:23:13-60
+31            android:screenOrientation="portrait" >
+31-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:24:13-49
+32            <intent-filter>
+32-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:25:13-29:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:26:17-69
+33-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:26:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:28:17-77
+35-->/home/mary/AndroidStudioProjects/woocer_test/app/src/main/AndroidManifest.xml:28:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <service
+39-->[androidx.room:room-runtime:2.3.0] /home/mary/.gradle/caches/transforms-3/0c04b55a9f159657ba6f805bc3aa82e4/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+40            android:name="androidx.room.MultiInstanceInvalidationService"
+40-->[androidx.room:room-runtime:2.3.0] /home/mary/.gradle/caches/transforms-3/0c04b55a9f159657ba6f805bc3aa82e4/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+41            android:directBootAware="true"
+41-->[androidx.room:room-runtime:2.3.0] /home/mary/.gradle/caches/transforms-3/0c04b55a9f159657ba6f805bc3aa82e4/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+42            android:exported="false" />
+42-->[androidx.room:room-runtime:2.3.0] /home/mary/.gradle/caches/transforms-3/0c04b55a9f159657ba6f805bc3aa82e4/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+43        <service
+43-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:12:9-18:19
+44            android:name="com.google.firebase.components.ComponentDiscoveryService"
+44-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:13:13-84
+45            android:directBootAware="true"
+45-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+46            android:exported="false" >
+46-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:14:13-37
+47            <meta-data
+47-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:15:13-17:85
+48                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+48-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:16:17-124
+49                android:value="com.google.firebase.components.ComponentRegistrar" />
+49-->[com.google.firebase:firebase-database-ktx:20.0.3] /home/mary/.gradle/caches/transforms-3/737a09e8162cce1bb5318d5a9dbabcd3/transformed/jetified-firebase-database-ktx-20.0.3/AndroidManifest.xml:17:17-82
+50            <meta-data
+50-->[com.google.firebase:firebase-database:20.0.3] /home/mary/.gradle/caches/transforms-3/5bc372a124607526e03ae97f798d1a39/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:32:13-34:85
+51                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+51-->[com.google.firebase:firebase-database:20.0.3] /home/mary/.gradle/caches/transforms-3/5bc372a124607526e03ae97f798d1a39/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:33:17-109
+52                android:value="com.google.firebase.components.ComponentRegistrar" />
+52-->[com.google.firebase:firebase-database:20.0.3] /home/mary/.gradle/caches/transforms-3/5bc372a124607526e03ae97f798d1a39/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:34:17-82
+53            <meta-data
+53-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/mary/.gradle/caches/transforms-3/196368466126d6ee016a1c5d5c02ce00/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:15:13-17:85
+54                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+54-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/mary/.gradle/caches/transforms-3/196368466126d6ee016a1c5d5c02ce00/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:16:17-113
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-common-ktx:20.0.0] /home/mary/.gradle/caches/transforms-3/196368466126d6ee016a1c5d5c02ce00/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:17:17-82
+56        </service>
+57
+58        <activity
+58-->[com.google.android.gms:play-services-base:17.3.0] /home/mary/.gradle/caches/transforms-3/202fe106ef3724a19c9c705fe40211c9/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:17.3.0] /home/mary/.gradle/caches/transforms-3/202fe106ef3724a19c9c705fe40211c9/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:17.3.0] /home/mary/.gradle/caches/transforms-3/202fe106ef3724a19c9c705fe40211c9/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:17.3.0] /home/mary/.gradle/caches/transforms-3/202fe106ef3724a19c9c705fe40211c9/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+62
+63        <provider
+63-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+64            android:name="com.google.firebase.provider.FirebaseInitProvider"
+64-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+65            android:authorities="com.woocer.test.firebaseinitprovider"
+65-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+66            android:directBootAware="true"
+66-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+67            android:exported="false"
+67-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+68            android:initOrder="100" />
+68-->[com.google.firebase:firebase-common:20.0.0] /home/mary/.gradle/caches/transforms-3/56c7105cf965868c07260e4277061498/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+69
+70        <meta-data
+70-->[com.google.android.gms:play-services-basement:17.3.0] /home/mary/.gradle/caches/transforms-3/245a09d2e31bed0df8465876507dd991/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+71            android:name="com.google.android.gms.version"
+71-->[com.google.android.gms:play-services-basement:17.3.0] /home/mary/.gradle/caches/transforms-3/245a09d2e31bed0df8465876507dd991/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+72            android:value="@integer/google_play_services_version" />
+72-->[com.google.android.gms:play-services-basement:17.3.0] /home/mary/.gradle/caches/transforms-3/245a09d2e31bed0df8465876507dd991/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+73
+74        <provider
+74-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mary/.gradle/caches/transforms-3/48733748c509386dd26d95e23819a3b1/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+75            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mary/.gradle/caches/transforms-3/48733748c509386dd26d95e23819a3b1/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+76            android:authorities="com.woocer.test.lifecycle-process"
+76-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mary/.gradle/caches/transforms-3/48733748c509386dd26d95e23819a3b1/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+77            android:exported="false"
+77-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mary/.gradle/caches/transforms-3/48733748c509386dd26d95e23819a3b1/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+78            android:multiprocess="true" />
+78-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mary/.gradle/caches/transforms-3/48733748c509386dd26d95e23819a3b1/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+79    </application>
+80
+81</manifest>

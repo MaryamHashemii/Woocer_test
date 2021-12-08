@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/fragment_login_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_mode_not_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp">
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gud_1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.1" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/txt_name"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/background_btn"
+                android:textColorHint="@color/gray_100"
+                android:theme="@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined"
+                app:boxBackgroundColor="@color/white"
+                app:boxCornerRadiusBottomEnd="12dp"
+                app:boxCornerRadiusBottomStart="12dp"
+                app:boxCornerRadiusTopEnd="12dp"
+                app:boxCornerRadiusTopStart="12dp"
+                app:boxStrokeColor="@color/teal_200"
+                app:boxStrokeWidth="1dp"
+                app:hintTextColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/gud_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edt_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="46dp"
+                    android:hint="@string/label_name"
+                    android:inputType="text"
+                    android:maxLength="11"
+                    android:maxLines="1"
+                    android:textAlignment="center"
+                    android:textAppearance="@style/TextAppearance.Woocer.Subtitle1"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/gray_100" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/txt_email"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/background_btn"
+                android:textColorHint="@color/gray_100"
+                android:theme="@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined"
+                app:boxBackgroundColor="@color/white"
+                app:boxCornerRadiusBottomEnd="12dp"
+                app:boxCornerRadiusBottomStart="12dp"
+                app:boxCornerRadiusTopEnd="12dp"
+                app:boxCornerRadiusTopStart="12dp"
+                app:boxStrokeColor="@color/teal_200"
+                app:boxStrokeWidth="1dp"
+                app:hintTextColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="@id/txt_name"
+                app:layout_constraintStart_toStartOf="@id/txt_name"
+                app:layout_constraintTop_toBottomOf="@id/txt_name">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edt_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/label_email"
+                    android:maxLines="1"
+                    android:textAlignment="center"
+                    android:textAppearance="@style/TextAppearance.Woocer.Subtitle1"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/gray_100" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/txt_website"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/background_btn"
+                android:textColorHint="@color/gray_100"
+                android:theme="@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined"
+                app:boxBackgroundColor="@color/white"
+                app:boxCornerRadiusBottomEnd="12dp"
+                app:boxCornerRadiusBottomStart="12dp"
+                app:boxCornerRadiusTopEnd="12dp"
+                app:boxCornerRadiusTopStart="12dp"
+                app:boxStrokeColor="@color/teal_200"
+                app:boxStrokeWidth="1dp"
+                app:hintTextColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="@id/txt_email"
+                app:layout_constraintStart_toStartOf="@id/txt_email"
+                app:layout_constraintTop_toBottomOf="@id/txt_email">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edt_website"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/label_website"
+                    android:maxLines="2"
+                    android:textAlignment="center"
+                    android:textAppearance="@style/TextAppearance.Woocer.Subtitle1"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/gray_100" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/txt_consumer_key"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/background_btn"
+                android:textColorHint="@color/gray_100"
+                android:theme="@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined"
+                app:boxBackgroundColor="@color/white"
+                app:boxCornerRadiusBottomEnd="12dp"
+                app:boxCornerRadiusBottomStart="12dp"
+                app:boxCornerRadiusTopEnd="12dp"
+                app:boxCornerRadiusTopStart="12dp"
+                app:boxStrokeColor="@color/teal_200"
+                app:boxStrokeWidth="1dp"
+                app:hintTextColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="@id/txt_website"
+                app:layout_constraintStart_toStartOf="@id/txt_website"
+                app:layout_constraintTop_toBottomOf="@id/txt_website">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edt_consumer_key"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/label_consumer_key"
+                    android:maxLines="2"
+                    android:textAlignment="center"
+                    android:textAppearance="@style/TextAppearance.Woocer.Subtitle1"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/gray_100" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/txt_consumer_secret"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/background_btn"
+                android:textColorHint="@color/gray_100"
+                android:theme="@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined"
+                app:boxBackgroundColor="@color/white"
+                app:boxCornerRadiusBottomEnd="12dp"
+                app:boxCornerRadiusBottomStart="12dp"
+                app:boxCornerRadiusTopEnd="12dp"
+                app:boxCornerRadiusTopStart="12dp"
+                app:boxStrokeColor="@color/teal_200"
+                app:boxStrokeWidth="1dp"
+                app:hintTextColor="@color/teal_200"
+                app:layout_constraintEnd_toEndOf="@id/txt_consumer_key"
+                app:layout_constraintStart_toStartOf="@id/txt_consumer_key"
+                app:layout_constraintTop_toBottomOf="@id/txt_consumer_key">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/edt_consumer_secret"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/label_consumer_secret"
+                    android:maxLines="2"
+                    android:textAlignment="center"
+                    android:textAppearance="@style/TextAppearance.Woocer.Subtitle1"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/gray_100" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:background="@drawable/background_btn_purple"
+                android:text="enter"
+                android:textAppearance="@style/TextAppearance.Woocer.Button"
+                app:layout_constraintTop_toBottomOf="@id/txt_consumer_secret" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+         

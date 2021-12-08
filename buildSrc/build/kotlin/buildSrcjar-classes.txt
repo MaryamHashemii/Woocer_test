@@ -1,0 +1,1 @@
+/home/mary/AndroidStudioProjects/woocer_test/buildSrc/build/classes/kotlin/main/Libs.class:/home/mary/AndroidStudioProjects/woocer_test/buildSrc/build/classes/kotlin/main/Versions.class
